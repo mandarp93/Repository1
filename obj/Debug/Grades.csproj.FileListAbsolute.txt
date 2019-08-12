@@ -1,0 +1,7 @@
+D:\Net Projects\TrainingAps\Grades\bin\Debug\Grades.exe.config
+D:\Net Projects\TrainingAps\Grades\bin\Debug\Grades.exe
+D:\Net Projects\TrainingAps\Grades\bin\Debug\Grades.pdb
+D:\Net Projects\TrainingAps\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+D:\Net Projects\TrainingAps\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+D:\Net Projects\TrainingAps\Grades\obj\Debug\Grades.exe
+D:\Net Projects\TrainingAps\Grades\obj\Debug\Grades.pdb
